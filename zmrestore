@@ -132,5 +132,5 @@ fi
 
 # if AFLAG on
 if [[ $AFLAG -eq 1 ]]; then
-    create_pack_retore
+    create_pack_restore
 fi
